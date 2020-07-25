@@ -1,0 +1,2 @@
+ssh-keygen -t rsa
+然后一直敲回车
